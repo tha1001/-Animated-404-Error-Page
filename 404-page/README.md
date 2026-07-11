@@ -37,7 +37,7 @@ The page features smooth animations, floating background elements, a glassmorphi
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/404-page.git
+git clone https://github.com/tha1001/404-page.git
 ```
 
 2. Open `index.html` in your browser.
