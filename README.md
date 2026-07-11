@@ -34,13 +34,7 @@ The page features smooth animations, floating background elements, a glassmorphi
 
 ## 🚀 Getting Started
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/404-page.git
-```
-
-2. Open `index.html` in your browser.
+open this web address https://tha1001.github.io/-Animated-404-Error-Page/
 
 No installation or build tools are required.
 
