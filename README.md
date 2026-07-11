@@ -53,16 +53,6 @@ The layout is optimized for:
 - Tablet
 - Mobile Devices
 
-## 📸 Preview
-
-> Add a screenshot of the project here.
-
-Example:
-
-```
-preview.png
-```
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
